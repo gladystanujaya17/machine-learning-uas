@@ -37,7 +37,7 @@ Besides that, there will be some visualizations and tables in the columns numeri
  
 ### 3. Data Preparation
 This stage is the stage for preparing data before the data is modeled. 
-Some action done before is to look at the density graph to see the distribution of numerical data, check for missing values in each column, and separate the features on the stock into independent variables (variable X) and variables dependent (variable y).
+Some action done before is to look at the density graph to see the distribution of numerical data, check for missing values in each column, and separate the features on the stock into independent variables (X-variable) and variables dependent (y-variable).
  
 ### 4. Modelling
 The distribution of training and testing data is carried out using ratio 80:20. 
