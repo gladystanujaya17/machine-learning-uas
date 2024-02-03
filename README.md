@@ -50,4 +50,4 @@ To evaluate the regression problem, there are three methods that can be used for
 These are Mean Absolute Error (MAE), R-squared, and Root Mean Squared Error (RMSE).
 
 ## Journal Link
-Link: https://drive.google.com/file/d/1jCuh1g7vFhMKUUzMAbbrY_ArBJmOVTPS/view?usp=sharing
+Link: https://drive.google.com/file/d/1zQiM8LzaxrwKWgOvNtUfwhCffFhho2NX/view?usp=sharing
