@@ -14,19 +14,19 @@ Some advantages of Random Forest Algorithm are able to display low error, effect
 
 ## Research Methodology
 ### 1. Business Understanding
-1. Date
+1. **Date**:
 Date is in YYYY-MM-DD format.
-2. Open
+2. **Open**:
 Share price at market opening. Price listed in USD.
-3. High
+3. **High**: 
 The highest stock price reached on that date.  
-4. Low
+4. **Low**: 
 The lowest stock price reached on that date.  
-5. Close
+5. **Close**: 
 The last price that appears on a stock company before the stock exchange closes.
-6. Volume
+6. **Volume**:
 Number of shares traded in a certain period of time and is located below stock price chart.
-7. Name
+7. **Name**:
 Name of the company that owns the shares listed on the S&P 500.
 
 ### 2. Data Understanding
