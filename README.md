@@ -45,7 +45,7 @@ The training data size (X_train) is 1007 rows and 3 columns, while the size of t
 Target data for training (y_train) has a size of 1007 rows, while the target data for testing (y_test) has a size of 252 rows.
 Before performing hyperparameter tuning, the model Random Forest Regressor uses parameters n_estimators is 240, min_samples_leaf is 1, min_samples_split is 2, and bootstrap is True.
 
-### 5. Modelling
+### 5. Evaluation
 To evaluate the regression problem, there are three methods that can be used for evaluate prediction models. 
 These are Mean Absolute Error (MAE), R-squared, and Root Mean Squared Error (RMSE).
 
