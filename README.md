@@ -1,3 +1,6 @@
 # Code Documentation Machine Learning Final Exam
-S&P 500 adalah indeks saham yang terdiri dari 500 perusahaan besar di Amerika Serikat, yang mewakili sebagian besar pasar saham Amerika Serikat dan juga mewakili performa bisnis perusahaan di Amerika Serikat. 
-Oleh karena itu, S&P 500 sering dijadikan sebagai market portfolio dan juga sebagai patokan untuk saham beta di Amerika Serikat
+## Background
+S&P 500 is a stock index consisting of 500 large companies from United States (US), which represents most of US stock market and represents company business performance in US.
+Because of that, S&P 500 is often being used for market portfolio and also as a benchmark for beta stock in US. 
+These explanation are the reason why S&P stock prediction is really important, especially for investors and stock trader to make a right investment decision.
+
