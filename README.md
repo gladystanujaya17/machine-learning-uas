@@ -49,5 +49,9 @@ Before performing hyperparameter tuning, the model Random Forest Regressor uses 
 To evaluate the regression problem, there are three methods that can be used for evaluate prediction models. 
 These are Mean Absolute Error (MAE), R-squared, and Root Mean Squared Error (RMSE).
 
+## Technologies 
+- Jupyter Notebook (Python)
+- CSV data format
+  
 ## Journal Link
 Link: https://drive.google.com/file/d/1zQiM8LzaxrwKWgOvNtUfwhCffFhho2NX/view?usp=sharing
